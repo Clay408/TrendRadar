@@ -1,34 +1,24 @@
-DeepSeek
-梁文锋
+科技
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+ai agent
+多智能体
+人工智能
 
+新质生产力
 
-大疆
-DJI
-
-宇树
-王兴兴
-
+稚晖君
 智元
 灵犀
-稚晖君
-彭志辉
 
-京东
-刘强东
-
+张一鸣
 字节
 bytedance
-张一鸣
 
-特斯拉
+马化腾
+腾讯
+Tencent
+
 马斯克
-星链
-脑机接口
 
 微软
 Microsoft
@@ -36,7 +26,6 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
 
 谷歌
@@ -44,8 +33,8 @@ google
 gemini
 deepmind
 
-chatgpt
 openai
+chatgpt
 sora
 
 claude
@@ -56,41 +45,13 @@ ipad
 mac
 ios
 
-ai
-ai agent
-多智能体
-!gai
-人工智能
 
-自动驾驶
 机器人
 人型机器人
 机器人美女
+机器人成人领域
 
 
 
-国产
-中国
 
-美国
-日本
-韩国
 
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
